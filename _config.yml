@@ -1,0 +1,12 @@
+# Site settings
+title:
+name:
+email:
+description:
+baseurl: ""
+url: "http://milos.gavrilovic.rs"
+github_username:  gavrisimo
+
+# Build settings
+markdown: kramdown
+permalink: pretty
